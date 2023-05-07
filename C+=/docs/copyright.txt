@@ -1,0 +1,20 @@
+/* 
+ * Copyright (C) 2022 Kyle Morris - All Rights Reserved
+ * This is C+=, a free C++ toolbox.
+ *
+ * <filename>
+ * 
+ * <short description>
+ */
+
+#pragma once
+#ifndef CPE_H
+#define CPE_H
+
+namespace cpe {
+
+
+
+};
+
+#endif  /* CPE_H */
